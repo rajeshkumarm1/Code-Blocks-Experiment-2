@@ -62,7 +62,8 @@ void main() {
 }
 
 🖥️ Sample Output
-<img width="1236" height="1108" alt="code block 2" src="https://github.com/user-attachments/assets/49621d52-6eda-4d7e-85e0-49a6ad75a1d6" />
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/517c66c6-db74-4726-8b81-bf6f7dffb100" />
+
 
 ✅ Result
 
